@@ -1,0 +1,10 @@
+C:\Users\FudoDaichi\Documents\GitHub\MS_project\detTreMS\detTreMS\bin\Debug\detTreMS.exe.config
+C:\Users\FudoDaichi\Documents\GitHub\MS_project\detTreMS\detTreMS\bin\Debug\detTreMS.exe
+C:\Users\FudoDaichi\Documents\GitHub\MS_project\detTreMS\detTreMS\bin\Debug\detTreMS.pdb
+C:\Users\FudoDaichi\Documents\GitHub\MS_project\detTreMS\detTreMS\obj\Debug\detTreMS.csprojAssemblyReference.cache
+C:\Users\FudoDaichi\Documents\GitHub\MS_project\detTreMS\detTreMS\obj\Debug\detTreMS.Form1.resources
+C:\Users\FudoDaichi\Documents\GitHub\MS_project\detTreMS\detTreMS\obj\Debug\detTreMS.Properties.Resources.resources
+C:\Users\FudoDaichi\Documents\GitHub\MS_project\detTreMS\detTreMS\obj\Debug\detTreMS.csproj.GenerateResource.cache
+C:\Users\FudoDaichi\Documents\GitHub\MS_project\detTreMS\detTreMS\obj\Debug\detTreMS.csproj.CoreCompileInputs.cache
+C:\Users\FudoDaichi\Documents\GitHub\MS_project\detTreMS\detTreMS\obj\Debug\detTreMS.exe
+C:\Users\FudoDaichi\Documents\GitHub\MS_project\detTreMS\detTreMS\obj\Debug\detTreMS.pdb
